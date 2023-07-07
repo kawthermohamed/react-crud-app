@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+}
+.sidebar {
+  height: 100vh;
+}
+
+ul {
+  /* margin: 0; */
+}
+.row > * {
+  padding: 0 !important;
+}
+.row {
+  --bs-gutter-x: 0 !important;
+}
+.addpro {
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+.card {
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
